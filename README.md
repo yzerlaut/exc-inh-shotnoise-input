@@ -1,16 +1,25 @@
-###Plugin Template
+### Emulating synaptic bombardment: Conductance-based currents based on excitatory and inhibitory shotnoise processes
 
 **Requirements:** None  
 **Limitations:** None  
 
-![Plugin Template GUI](plugin-template.png)
+![Emulating excitatory/inhibitory synaptic bombardment](exc-inh-shotnoise-input.png)
 
 <!--start-->
-This is the plugin template, also known in previous versions as MyPluginGUI. It is designed to provide a simplified interface with which anyone fork into custom RTXI modules. For instructions and tutorials regarding its use, see [the documentation on our website](http://rtxi.org/docs/tutorials/2015/04/15/understanding-plugin-template/). 
+
+This module aims at reproducing the synaptic bombardment targetting a single cell in cortical networks. The currents are based on Poisson point processes convoluted with exponential waveforms. For the rationale of such models and similar dynamic-clamp implementation (for in-vitro experiments), see e.g. the (non-exhaustive) following publications :
+
+- (http://www.jneurosci.org/content/24/10/2345.long)
+- (http://www.ncbi.nlm.nih.gov/pubmed/12194875)
+- (http://www.ncbi.nlm.nih.gov/pubmed/21389243)
+- (http://onlinelibrary.wiley.com/doi/10.1113/JP272317/abstract)
+
+The config file producing the snapshot (i.e. combined with my LIF-model implementation), see this ![config file](https://github.com/yzerlaut/my_rtxi_configs/blob/master/lif-shotnoise-input.set)
+
+
 <!--end-->
 
-####Paramaters
-1. GUI Label - Example parameter
+####Parameters
+see GUI 
 
-####States
-1. A State - An example state
+
