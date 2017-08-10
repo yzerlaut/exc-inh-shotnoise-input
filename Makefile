@@ -1,9 +1,9 @@
-PLUGIN_NAME = plugin_template
+PLUGIN_NAME = exc_inh_shotnoise_input
 
-HEADERS = plugin-template.h
+HEADERS = exc-inh-shotnoise-input.h
 
-SOURCES = plugin-template.cpp\
-          moc_plugin-template.cpp\
+SOURCES = exc-inh-shotnoise-input.cpp\
+          moc_exc-inh-shotnoise-input.cpp\
 
 LIBS = 
 
