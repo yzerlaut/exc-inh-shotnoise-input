@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Text Editor backups
 *.swp
 *~
+=======
+# Prerequisites
+*.d
+>>>>>>> b4d6ecba154ec21e62a243e20deaffc0ab8e6dda
 
 # Compiled Object files
 *.slo
@@ -8,24 +13,44 @@
 *.o
 *.obj
 
+<<<<<<< HEAD
+=======
+# Precompiled Headers
+*.gch
+*.pch
+
+>>>>>>> b4d6ecba154ec21e62a243e20deaffc0ab8e6dda
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
 
+<<<<<<< HEAD
+=======
+# Fortran module files
+*.mod
+*.smod
+
+>>>>>>> b4d6ecba154ec21e62a243e20deaffc0ab8e6dda
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
+<<<<<<< HEAD
 .lib/
 
 # Qt Mocs
 moc_*
+=======
+>>>>>>> b4d6ecba154ec21e62a243e20deaffc0ab8e6dda
 
 # Executables
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b4d6ecba154ec21e62a243e20deaffc0ab8e6dda
