@@ -1,4 +1,4 @@
-### Emulating synaptic bombardment: Conductance-based currents based on excitatory and inhibitory shotnoise processes
+### Emulating synaptic bombardment in /RTXI/: Conductance-based currents relying on excitatory and inhibitory shotnoise processes
 
 **Requirements:** None  
 **Limitations:** None  
@@ -14,12 +14,13 @@ This module aims at reproducing the synaptic bombardment targetting a single cel
 - (http://www.ncbi.nlm.nih.gov/pubmed/21389243)
 - (http://onlinelibrary.wiley.com/doi/10.1113/JP272317/abstract)
 
-The config file producing the snapshot (i.e. combined with my LIF-model implementation), see this ![config file](https://github.com/yzerlaut/my_rtxi_configs/blob/master/lif-shotnoise-input.set)
+The config file producing the snapshot (i.e. combined with my LIF-model implementation) can be found on this ![link](https://github.com/yzerlaut/my_rtxi_configs/blob/master/lif-shotnoise-input.set)
 
 
 <!--end-->
 
 ####Parameters
+
 see GUI 
 
 
