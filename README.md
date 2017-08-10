@@ -1,4 +1,6 @@
-### Emulating synaptic bombardment in ![RTXI](https://github.com/RTXI/rtxi): Conductance-based currents relying on excitatory and inhibitory shotnoise processes
+### Emulating synaptic bombardment in ![RTXI](https://github.com/RTXI/rtxi)
+
+#### Conductance-based currents relying on excitatory and inhibitory shotnoise processes
 
 **Requirements:** None  
 **Limitations:** None  
